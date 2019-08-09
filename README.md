@@ -9,7 +9,17 @@
 3.  [Estrutura de Dados](https://github.com/ThreeDP/IFSP/tree/master/Estrutura%20de%20Dados)
 4.  [Linguagem de Programação](null)
 
-    4.1 [Git](null)
+    4.1 [Assembly](null)
+    
+    4.2 [Clojure](null)
+    
+    4.3 [C Plus Plus](null)
+    
+    4.4 [Git](null)
+    
+    4.5 [Lua](null)
+    
+    4.6 [Python](null)
     
 5.  [Matemática Discreta](https://github.com/ThreeDP/IFSP/tree/master/Matemática%20Discreta)
 6.  [Organização, Sistemas e Métodos](https://github.com/ThreeDP/IFSP/tree/master/Organização%2C%20Sistemas%20e%20Métodos)
