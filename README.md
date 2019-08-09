@@ -19,7 +19,17 @@
     
     4.5 [Lua](null)
     
-    4.6 [Python](null)
+    4.6 [Paradigmas de Programação](null)
+    
+      - 4.6.1 [Paradigma Funcional](null)
+       
+      - 4.6.2 [Paradigma Orientação a Objetos](null)
+       
+      - 4.6.3 [Paradigma Orientação a Teste](null)
+       
+      - 4.6.4 [Paradigma Orientação a Eventos](null)
+    
+    4.7 [Python](null)
     
 5.  [Matemática Discreta](https://github.com/ThreeDP/IFSP/tree/master/Matemática%20Discreta)
 6.  [Organização, Sistemas e Métodos](https://github.com/ThreeDP/IFSP/tree/master/Organização%2C%20Sistemas%20e%20Métodos)
