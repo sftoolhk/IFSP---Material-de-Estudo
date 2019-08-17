@@ -7,11 +7,11 @@
 1.  [Análise de Sistemas](https://github.com/ThreeDP/IFSP/tree/master/Análise%20de%20Sistemas)
 2.  [Banco de Dados](https://github.com/ThreeDP/IFSP/tree/master/Banco%20de%20Dados)
 3.  [Estrutura de Dados](https://github.com/ThreeDP/IFSP/tree/master/Estrutura%20de%20Dados)
-4.  [Linguagem de Programação](null)
+4.  [Linguagem de Programação](https://github.com/ThreeDP/IFSP---Material-de-Estudo/tree/master/Linguagem%20de%20Programação)
 
     4.1 [Assembly](null)
     
-    4.2 [Clojure](null)
+    4.2 [Clojure](https://github.com/ThreeDP/IFSP---Material-de-Estudo/tree/master/Linguagem%20de%20Programação/Clojure)
     
     4.3 [C Plus Plus](null)
     
@@ -29,7 +29,7 @@
        
       - 4.6.4 [Paradigma Orientação a Eventos](null)
     
-    4.7 [Python](null)
+    4.7 [Python](https://github.com/ThreeDP/IFSP---Material-de-Estudo/tree/master/Linguagem%20de%20Programação/Python)
     
 5.  [Matemática Discreta](https://github.com/ThreeDP/IFSP/tree/master/Matemática%20Discreta)
 6.  [Organização, Sistemas e Métodos](https://github.com/ThreeDP/IFSP/tree/master/Organização%2C%20Sistemas%20e%20Métodos)
