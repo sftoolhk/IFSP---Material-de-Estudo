@@ -9,25 +9,25 @@
 3.  [Estrutura de Dados](https://github.com/ThreeDP/IFSP/tree/master/Estrutura%20de%20Dados)
 4.  [Linguagem de Programação](https://github.com/ThreeDP/IFSP---Material-de-Estudo/tree/master/Linguagem%20de%20Programação)
 
-    4.1 [Assembly](null)
+    4.1 [Assembly](https://github.com/ThreeDP/IFSP---Material-de-Estudo/tree/master/Linguagem%20de%20Programação/Assembly)
     
     4.2 [Clojure](https://github.com/ThreeDP/IFSP---Material-de-Estudo/tree/master/Linguagem%20de%20Programação/Clojure)
     
-    4.3 [C Plus Plus](null)
+    4.3 [C Plus Plus](https://github.com/ThreeDP/IFSP---Material-de-Estudo/tree/master/Linguagem%20de%20Programação/C%20Plus%20Plus)
     
-    4.4 [Git](null)
+    4.4 [Git](https://github.com/ThreeDP/IFSP---Material-de-Estudo/tree/master/Linguagem%20de%20Programação/Git)
     
-    4.5 [Lua](null)
+    4.5 [Lua](https://github.com/ThreeDP/IFSP---Material-de-Estudo/tree/master/Linguagem%20de%20Programação/Lua)
     
-    4.6 [Paradigmas de Programação](null)
+    4.6 [Paradigmas de Programação](https://github.com/ThreeDP/IFSP---Material-de-Estudo/tree/master/Linguagem%20de%20Programação/Paradigmas%20de%20Programação)
     
-      - 4.6.1 [Paradigma Funcional](null)
+      - 4.6.1 [Paradigma Funcional](https://github.com/ThreeDP/IFSP---Material-de-Estudo/tree/master/Linguagem%20de%20Programação/Paradigmas%20de%20Programação/Paradigma%20Funcional)
        
-      - 4.6.2 [Paradigma Orientação a Objetos](null)
+      - 4.6.2 [Paradigma Orientação a Objetos](https://github.com/ThreeDP/IFSP---Material-de-Estudo/tree/master/Linguagem%20de%20Programação/Paradigmas%20de%20Programação/Paradigma%20Orientação%20a%20Eventos)
        
-      - 4.6.3 [Paradigma Orientação a Teste](null)
+      - 4.6.3 [Paradigma Orientação a Teste](https://github.com/ThreeDP/IFSP---Material-de-Estudo/tree/master/Linguagem%20de%20Programação/Paradigmas%20de%20Programação/Paradigma%20Orientação%20a%20Objetos)
        
-      - 4.6.4 [Paradigma Orientação a Eventos](null)
+      - 4.6.4 [Paradigma Orientação a Eventos](https://github.com/ThreeDP/IFSP---Material-de-Estudo/tree/master/Linguagem%20de%20Programação/Paradigmas%20de%20Programação/Paradigma%20Orientação%20a%20Eventos)
     
     4.7 [Python](https://github.com/ThreeDP/IFSP---Material-de-Estudo/tree/master/Linguagem%20de%20Programação/Python)
     
