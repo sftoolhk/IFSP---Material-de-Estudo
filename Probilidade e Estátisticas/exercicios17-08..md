@@ -8,8 +8,9 @@ b). 1/3
 
 # 2.
 
-       aprimos = 2, 3, 5
+       primos = 2, 3, 5
        1/4 + 1/12 + 1/12 = 5/12
+       
 a). 5/12
 
        múltiplos de 3 = 3, 6 1/4 + 1/12 = 1/3
@@ -91,4 +92,44 @@ C). 2/18
 
        BP = 1/18 + 1/18
        BP = 2/18
+ 
+ #10.
+ 
+A).
        
+       possibilidades: 15
+       Possibilidades de saida Vermelha na Primeira tiragem = 8/15
+       Possibilidades de saida Branca na Segunda tiragem = 3/14
+
+B).
+
+       Possibilidades: 15
+       Possibilidades de saida Branca na Primeira tiragem = 3/15
+       Possibilidades de saida Vermelha na segunda tiragem = 8/11
+       
+#12.
+
+A). 14/285
+
+       possibilidade inicial = 8/20
+       possibilidade após a primeira tiragem = 7/19
+       possibilidade após a segunda tiragem = 6/18
+       P3F = 8/20 * 7/19 * 6/18 = 14/285
+       
+B). 
+       
+       b) Chances de cair homem = 3
+       probabilidade inicial: 12/20
+       probabilidade apos a primeira tiragem: 8/19
+       probabilidade apos a segunda tiragem: 7/18
+       P1H = 3*(12/20*8/19*7/18) =  
+       
+      
+C). 
+
+       chances de cair homem: 3
+       probabilidade inicial: 12/20
+       probabilidade apos a primeira tiragem: 11/19
+       probabilidade apos a segunda tiragem: 8/18
+       P1H = 3 * (12/20 * 11/19 * 8/18)
+       P2H =        
