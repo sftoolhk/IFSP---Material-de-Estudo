@@ -93,7 +93,7 @@ C). 2/18
        BP = 1/18 + 1/18
        BP = 2/18
  
- #10.
+ # 10.
  
 A).
        
@@ -107,7 +107,7 @@ B).
        Possibilidades de saida Branca na Primeira tiragem = 3/15
        Possibilidades de saida Vermelha na segunda tiragem = 8/11
        
-#12.
+# 12.
 
 A). 14/285
 
