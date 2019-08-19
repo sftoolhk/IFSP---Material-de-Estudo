@@ -1,0 +1,27 @@
+///Programa que escreve algo dentro de uma arquivo de texto .txt
+#include <stdio.h>
+#include <conio.h>
+#include <iostream>
+
+int main (void)
+{
+  FILE *arq;
+  int i;
+  int result;
+  arq = fopen("arquivo.txt", "wt");  /// Cria um arquivo texto para gravação
+  if (arq == NULL) /// Se nào conseguiu criar
+  {
+     std::cout << "Problemas na CRIACAO do arquivo\n";
+     return 0;
+  }
+  /// A funcao 'fprintf' devolve o número de bytes gravados
+  /// ou EOF se houve erro na gravação
+  result = fprintf(arq,"Escreva isto dentro do arquivo txt\n\n ... Carai escreveu mesmo kkkkk...");
+
+  if (result == EOF)
+    std::cout << "Erro na Gravacao\n";
+  else
+    std::cout << "\nArquivo criado com sucesso!\n";
+
+  fclose(arq);
+}
