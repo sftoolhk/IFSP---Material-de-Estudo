@@ -1,3 +1,5 @@
+# Principios da Linguagem:
+      
       print("Hello, World") // Saida de dados
 
       If X > 10:
@@ -7,7 +9,7 @@
           print (N)
           N = n - 1
       print('Blastoff!')
-
+      
 **Reserved Words:**
 
       False       class       return        is        finally
@@ -18,7 +20,7 @@
       assert      else        import        pass      break
       except      in          raise
 
-Operadores:
+**Operadores Aritméticos:**
 
 + adição: Menos prioritário em expressões matemáticas
     
@@ -58,6 +60,8 @@ Operadores:
       Z = X % 5
       print(Z)
       3
+
+**Operadores relacionais:**
 
 
 **Entrada de dados**
