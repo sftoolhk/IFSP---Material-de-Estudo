@@ -1,3 +1,4 @@
+# Primeiros Passos
 ### Configuração Global github
 > 
 
@@ -61,7 +62,7 @@ Outras formas de obter ajuda é por:
       
       #git ou #github no servidor Freenode(irc.freenode.net)
       
-
+# Git Essencial
 ### Repositório Git
 > Você pode obter um projeto Git utilizando duas formas principais. A primeira faz uso de um projeto ou diretório existente e o importa para o Git. A segunda clona um repositório Git existente a partir de outro servidor.
 
