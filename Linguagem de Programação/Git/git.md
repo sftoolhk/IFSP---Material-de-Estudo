@@ -45,3 +45,19 @@ Também é possivel buscar por uma key especifica:
       Exemplos:
       $ git config user.name
       $ git config core.editor
+
+### Obetendo Ajuda
+> Para obter o manpage(manual de comandos) de um tipo expecifico de ação basta usar um dos comandos:
+
+      $ git help <verb>
+      $ git <verb> --help
+      $ man git-<verb>
+      
+      Exemplo:
+      $ git help config
+      $ git action --help
+      
+Outras formas de obter ajuda é por:
+      
+      #git ou #github no servidor Freenode(irc.freenode.net)
+      
