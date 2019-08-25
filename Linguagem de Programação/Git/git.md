@@ -61,3 +61,25 @@ Outras formas de obter ajuda é por:
       
       #git ou #github no servidor Freenode(irc.freenode.net)
       
+
+### Repositório Git
+> Você pode obter um projeto Git utilizando duas formas principais. A primeira faz uso de um projeto ou diretório existente e o importa para o Git. A segunda clona um repositório Git existente a partir de outro servidor.
+
+**Inicializando um Repositório em um Diretório Existente**
+
+Use o comando a seguir para criar a pasta .git
+
+      $ git init
+      
+Para começar a controlar o versionamento de arquivos expecificos use os seguintes comandos:
+
+      $ git add <nome do arquivo>
+      $ git commit -m <'comentario das modificações'>
+      
+      Exemplos:
+      $ git add README.md
+      $ git add helloworld.py
+      $ git commit -m 'novo projeto python'
+      
+**Clonando um Repositório Existente**
+
