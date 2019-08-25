@@ -82,5 +82,30 @@ Para começar a controlar o versionamento de arquivos expecificos use os seguint
       $ git commit -m 'novo projeto python'
       
 **Clonando um Repositório Existente**
+      
+Basta usar o seguinte comando mais a url do repositório.
+      
+      $ git clone <url>
+      
+      Exemplo:
+      $ git clone git://github.com/schacon/grit.git
+      
+      Básicamente esse comando irá baixar esse novo repositório na pasta onde foi executado o comando criando assim o .git dentro do mesmo.
+      
+Para clonar um repositório modificando seu nome basta:
+
+      $ git clone <url> {novo nome}
+      
+      Exemplo:
+      $ git clone git://github.com/schacon/grit.git mygrit
+      
+      
+**Protocolos de transferência GIT**
+
+*git://*
+
+*http(s)://*
+
+*user@server:/path.git*
 
       
