@@ -7,6 +7,24 @@
     b. campo
     c. registro
     d. arquivo
+    
+*Resposta a.*
+    
+    Dados são um conjunto bruto de fatos que poderam ou não se tornar informações dependendo de seu contexto ou aplicação e de como é o trabalho sobre esses dados. Por exemplo um dado pode gerar uma informação muito importante e valiosa pra uma determinada empresa e para outra empresa pode permanecer em forma de dado ou seja sem relevancia para a empresa aplicação. Exemplos podem ser datas de aniversário, nome de fornecedor ou lucro mensal.
+    
+*Resposta b.*
+    
+    Um campo recebera um rótulo e normalmente ira armazenar somente um tipo de dado, ou seja ele seria como uma coluna em uma aplicação comum. Um campo poderia ser Nome ou idade por exemplo.
+    
+*Resposta c.*
+
+    Registro, tupla ou linha será onde os dados de um unico item de dado será armazenado em um agrupamento lógico de dados. Por exemplo as informações de um individuo como nome, idade, sexo e altura.
+    
+*Resposta d.*
+
+    Conjunto de dados e registros que compoem uma informação ou não. Um exemplo seria as matriculas de alunos em uma escola.
+    
+___________________________________________________________________________
 
     2. O que é redundância de dados e quais características do sistema de arquivos podem levar a ela?
 
