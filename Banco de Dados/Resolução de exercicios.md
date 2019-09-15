@@ -62,6 +62,14 @@ para o Problema 24](https://github.com/ThreeDP/IFSP---Material-de-Estudo/blob/ma
 
 **problemas:**
     
-    8.
+    8. Para cada tabela, identigique a chave primária e a(s) chave(s) estrangeira(s). Se uma tabela não tiver uma chave estrangeira, escreva Nenhum no espaço fornecido.
     
 ![Tabela exercicio 8: ](https://github.com/ThreeDP/IFSP---Material-de-Estudo/blob/master/Banco%20de%20Dados/TABELA%20CAP03%20EX08.png)
+
+    16. Crie o diagrama relacional para mostrar o relacionameto entre funcionários, loja e região.
+    
+        Utilize o banco de dados apresentado na Figura P3.3 para desenvolver os Problemas 17-22.
+        
+![P3.3 Tabela de banco de dados: ](https://github.com/ThreeDP/IFSP---Material-de-Estudo/blob/master/Banco%20de%20Dados/P3.3.jpg)        
+    
+    
