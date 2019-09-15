@@ -34,13 +34,28 @@ ________________________________________________________________________________
 *Resposta 4.*
     
 > SGBD ( Sistema de gerenciamento de bancos de dados é um conjunto de programas que gerenciam a estrutura do banco de dados e controlam o acesso aos dados armazenados.
+____________________________________________________________________________________________________________________________
 
-7. Qual é o papel de um SGBD e quais sã suas vantagens? E as suas desvantagens?
+7. Qual é o papel de um SGBD e quais são suas vantagens? E as suas desvantagens?
+
+*Resposta 7.*
+
+> O SGBD serve como intermediário entre o usuário e o banco de dados. o SGBD recebe todas as solicitações de aplicações e as traduz nas operações complexas necessárias para atendê-las. Suas vantagens são aprimoramento do compartilhamento de dados, aprimoramento da segurança de dados, melhoria na integração dos dados, minimizaçãoda inconsistência dos dados, aprimoramento do acesso aos dados, aprimoramento da tomada de decisão, aumento de produtividade do usuário final entre outras muitas. Em suas desvantagens estão no custo alto para implementação de um sistema SGBD alem do alto tempo demandado, que só aumenta conforme o tamanho da empresa, e Risco com a seguranção já que por mais que o sistema administre os varios usuários em casos necessários ainda abre muitas portas de risco para que usuarios não autorizados acessem informações que não eram de sua grade.
+____________________________________________________________________________________________________________________________
 
 10. O que São metadados?
 
+*Resposta 10.*
+
+> Um metadado traz uma visão mais completa dos dados de um banco de dados. Ele fornece uma descrição das caracteristics dos dados e do conjunto de relacionamento que liga os dados encontrados no banco de dados. Um exemplo seria um valor de 1000 em um dado em nosso banco seu metadado pode ser metros, R$, unidades, Kg, etc...
+____________________________________________________________________________________________________________________________
+
 11. Explique por que o projeto do banco de dados é importante.
-    
+
+*Resposta 11.*
+
+>  
+
 # Capitulo 02
     
 **Questões:**
