@@ -38,7 +38,30 @@
 ![Figura P2.6: DER pé de galinha
 para o Problema 24](https://github.com/ThreeDP/IFSP---Material-de-Estudo/blob/master/Banco%20de%20Dados/Untitled%20Diagram.png)
     
+    25. Crie um DER pé de galinha para cada uma das seguintes descrições. (Observação: A palavra vários significa simplesmente "mais de um" no ambiente de modelagem de bancos de dados.)
+    
+    a. Cada divisão da meaCo Corporation é composta de vários departamentos. Cada departamento possui vários funcionários atribuídos a ele, mas cada funcionário trabalha em apenas um departamento. Cada departamento é gerenciado por um funcionário trabalha em apenas um departamento. Cada departamento é gerenciado por um funcionário e cada um desses gerentes pode gerenciar apenas um departamento ao mesmo tempo.
+    
+    b. Durante determinado período de tempo, um cliente pode alugar várias fitas de vídeo da locadora BigVid. Cada fita de vídeo da BigVid pode ser alugada a vários clientes nesse período.
+    
+    c. Um avião de linhas aéreas pode ser encarregado de vários voos, mas cada voo é feito por apenas um avião.
+    
+    d. A KwikTite Corporation opera várias fábricas. Cada fábrica localiza-se em uma única região. Cada região pode "abrigar" várias fábricas da KwikTite. Cada fábrica emprega muitos funcionários , mas cada um desses funcionários é empregado de apenas um fábrica.
+    
+    E. Um funcionário pode obter vários graus de ensino e cada grau de ensino pode ser obtido por vários funcionários.
     
 # Capitulo 03
     
+**Questões:**
 
+    1. Qual é a iferença entre banco de dados e uma tabela?
+    
+    2. O que significa dizer que um banco de dados apresenta integridade de entidades e integridade referencial?
+    
+    9. O que são os homônimos e sinônimos e por que devem ser evitados no projeto de bancos de dados?
+
+**problemas:**
+    
+    8.
+    
+![Tabela exercicio 8: ](https://github.com/ThreeDP/IFSP---Material-de-Estudo/blob/master/Banco%20de%20Dados/TABELA%20CAP03%20EX08.png)
