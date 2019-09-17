@@ -54,7 +54,7 @@ ________________________________________________________________________________
 
 *Resposta 11.*
 
->  
+>  Porquê determina a estrutura do banco, facilita o gerenciamento dos dados e gera informações precisas e valiosas. Caso seja mal projetado pode levar ao fracasso de uma organização.
 
 # Capitulo 02
     
