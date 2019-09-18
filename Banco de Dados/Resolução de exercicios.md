@@ -66,11 +66,16 @@ ________________________________________________________________________________
     
 2. O que é uma regra de negócio e qual é sua finalidade na modelagem de dados?
 
->
+> Uma regra de negócio é uma descrição breve, precisa e sem ambiguidades de uma política.=, procedimento ou princípio em uma determinada organização. As regras de negócio decorrentes de uma descrição detalhada das operações de uma organização ajudam a criar e aplicar ações no interior de seu ambiente organizacional ou seja elas são necessárias para ajustar o software desenvolvido á forma de trabalho da organização em foco. Através dela conseguimos identificar componentes essencias para o desenvolvimento de banco de dados como identificação adequada de entidades, atributos, relacionamentos e restrições.
     
 3. Como é possivel traduzir regras de negócio em componentes de modelos de dados?
+
+> Atraves de uma regra de negocio do tipo "um cliente pode gerar muitas faturas e uma fatura é gerada por apenas um cliente" conseguimos determinar que á relação entre cliente e faturas como de 1:M (um para muitos) sendo assim uma regra de negocio foi traduzida para uma parte do modelo de dados.
     
 14. O que é um relacionamento e quais são seus três tipos?
+
+> Os relacionamentos descrevem associações entre dados. A maioria deles trata de relações entre duas entidades. Quando os componentes básicos dos modelos de dados foram apresentados, destacaram-se três tipos de relacionamentos entre dados: uma para muitos (1,M),
+muitos para muitos (M, N) e um para um (1:1).
     
 **Problemas:**
     
