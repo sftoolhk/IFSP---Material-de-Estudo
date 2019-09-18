@@ -54,15 +54,19 @@ ________________________________________________________________________________
 
 *Resposta 11.*
 
->  
+> Um banco bem projetado facilita o gerenciamento dos dados e gera informações precisas e valiosas. Já um banco de dados mal projetado provavelmente se tornará um solo fértil para erros difíceis de restrear ou até mesmo gerar tomadas de decições ruins, esse tipo de decisão pode levar organizações ao fracasso. Vale ressaltar que um projeto de bancos de dados pode interferir até mesmo no desenpenho de um bom SGBD.
 
 # Capitulo 02
     
 **Questões:**
 
 1. Discuta a importância da modelagem de dados.
+
+> A modelagem traz uma visão ampla sobre o projeto ao qual se deseja criar assim como em uma planta de casa, onde todo o projeto e desenhando e dimencionado para que o conjunto das parte (quartos, cozinha, banheiros, etc...) estejam em equilibrio para criar uma boa estrutura contra eventuais falhas, projetos de banco de dados são relativamente iguais é necessário uma visão geral sobre o projeto para que uma falha como por exemplo o incoformidade de dados entre o estoque e o setor de vendas seja evitado.
     
 2. O que é uma regra de negócio e qual é sua finalidade na modelagem de dados?
+
+>
     
 3. Como é possivel traduzir regras de negócio em componentes de modelos de dados?
     
