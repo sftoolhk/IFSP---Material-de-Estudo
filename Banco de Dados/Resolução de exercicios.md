@@ -101,11 +101,17 @@ e. Um funcionário pode obter vários graus de ensino e cada grau de ensino pode
     
 **Questões:**
 
-1. Qual é a iferença entre banco de dados e uma tabela?
+1. Qual é a diferença entre banco de dados e uma tabela?
+
+> Uma tabela possui um conjunto de informações sobre um determinado assunto como por exemplo alunos e é dividida em linhas e colunas e cada ponto onde essas linhas e colunas se cruzam a um dado armazenado. Bancos de dados possuem tabelas em sua concepção porem com uma abordagem mais ampla já que ele realiza a relação entre varias tabelas formando assim uma "tabela muito maior de dados".
     
 2. O que significa dizer que um banco de dados apresenta integridade de entidades e integridade referencial?
-    
+
+> Para apresentar integridade de entidades cada valor de chave primária deve ser exclusivo para garantir que todas as linhas sejam idetificadas exclusivamente por essa chave, para manter tal integridade, não se permite um valor nulo dentro do campo de chave primária. Ja para apresentar integridade referencial a chave estrangeira precisa referir-se á uma tupla com referencia a uma chave primaria válida existente em outra relação.
+
 9. O que são os homônimos e sinônimos e por que devem ser evitados no projeto de bancos de dados?
+
+> 
 
 **problemas:**
     
