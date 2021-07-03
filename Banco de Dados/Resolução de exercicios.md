@@ -54,19 +54,28 @@ ________________________________________________________________________________
 
 *Resposta 11.*
 
->  
+> Um banco bem projetado facilita o gerenciamento dos dados e gera informações precisas e valiosas. Já um banco de dados mal projetado provavelmente se tornará um solo fértil para erros difíceis de restrear ou até mesmo gerar tomadas de decições ruins, esse tipo de decisão pode levar organizações ao fracasso. Vale ressaltar que um projeto de bancos de dados pode interferir até mesmo no desenpenho de um bom SGBD.
 
 # Capitulo 02
     
 **Questões:**
 
 1. Discuta a importância da modelagem de dados.
+
+> A modelagem traz uma visão ampla sobre o projeto ao qual se deseja criar assim como em uma planta de casa, onde todo o projeto e desenhando e dimencionado para que o conjunto das parte (quartos, cozinha, banheiros, etc...) estejam em equilibrio para criar uma boa estrutura contra eventuais falhas, projetos de banco de dados são relativamente iguais é necessário uma visão geral sobre o projeto para que uma falha como por exemplo o incoformidade de dados entre o estoque e o setor de vendas seja evitado.
     
 2. O que é uma regra de negócio e qual é sua finalidade na modelagem de dados?
+
+> Uma regra de negócio é uma descrição breve, precisa e sem ambiguidades de uma política.=, procedimento ou princípio em uma determinada organização. As regras de negócio decorrentes de uma descrição detalhada das operações de uma organização ajudam a criar e aplicar ações no interior de seu ambiente organizacional ou seja elas são necessárias para ajustar o software desenvolvido á forma de trabalho da organização em foco. Através dela conseguimos identificar componentes essencias para o desenvolvimento de banco de dados como identificação adequada de entidades, atributos, relacionamentos e restrições.
     
 3. Como é possivel traduzir regras de negócio em componentes de modelos de dados?
+
+> Atraves de uma regra de negocio do tipo "um cliente pode gerar muitas faturas e uma fatura é gerada por apenas um cliente" conseguimos determinar que á relação entre cliente e faturas como de 1:M (um para muitos) sendo assim uma regra de negocio foi traduzida para uma parte do modelo de dados.
     
 14. O que é um relacionamento e quais são seus três tipos?
+
+> Os relacionamentos descrevem associações entre dados. A maioria deles trata de relações entre duas entidades. Quando os componentes básicos dos modelos de dados foram apresentados, destacaram-se três tipos de relacionamentos entre dados: uma para muitos (1,M),
+muitos para muitos (M, N) e um para um (1:1).
     
 **Problemas:**
     
@@ -92,11 +101,17 @@ e. Um funcionário pode obter vários graus de ensino e cada grau de ensino pode
     
 **Questões:**
 
-1. Qual é a iferença entre banco de dados e uma tabela?
+1. Qual é a diferença entre banco de dados e uma tabela?
+
+> Uma tabela possui um conjunto de informações sobre um determinado assunto como por exemplo alunos e é dividida em linhas e colunas e cada ponto onde essas linhas e colunas se cruzam a um dado armazenado. Bancos de dados possuem tabelas em sua concepção porem com uma abordagem mais ampla já que ele realiza a relação entre varias tabelas formando assim uma "tabela muito maior de dados".
     
 2. O que significa dizer que um banco de dados apresenta integridade de entidades e integridade referencial?
-    
+
+> Para apresentar integridade de entidades cada valor de chave primária deve ser exclusivo para garantir que todas as linhas sejam idetificadas exclusivamente por essa chave, para manter tal integridade, não se permite um valor nulo dentro do campo de chave primária. Ja para apresentar integridade referencial a chave estrangeira precisa referir-se á uma tupla com referencia a uma chave primaria válida existente em outra relação.
+
 9. O que são os homônimos e sinônimos e por que devem ser evitados no projeto de bancos de dados?
+
+> 
 
 **problemas:**
     
